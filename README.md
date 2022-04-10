@@ -64,6 +64,7 @@
 
 ## Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mangbaam&count_private=true&show_icons=true&theme=vue&hide_rank=false&custom_title=Mangbaam%27s%20Stats)](https://github.com/mangbaam) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mangbaam&exclude_repo=CodingTest,programmers,study_algorithm&theme=vue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mangbaam&count_private=true&show_icons=true&theme=vue&hide_rank=false&custom_title=Mangbaam%27s%20Stats&hide_rank=true&hide=prs)](https://github.com/mangbaam)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mangbaam&exclude_repo=CodingTest,programmers,study_algorithm&theme=vue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
