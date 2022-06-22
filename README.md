@@ -7,11 +7,24 @@
 
 반갑습니다🖐🏻
 
-안드로이드 공부하는 박명범입니다!
+안드로이드 공부하는 `박명범`입니다!
 
 깔끔하고 잘 설계된 코드를 작성하기 위해 노력하고 있습니다. 🔥
+  
+  ```
+  Success is the sum of small efforts, repeated day in and day out
+  
+  - Robert Collier -
+  ```
 
 ---
+  
+## 📋Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mangbaam&count_private=true&show_icons=true&theme=vue&hide_rank=false&custom_title=Mangbaam%27s%20Stats&hide_rank=true)](https://github.com/mangbaam)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mangbaam&exclude_repo=CodingTest,programmers,study_algorithm&theme=vue&layout=compact)](https://github.com/mangbaam)
+  
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pmb0836)](https://solved.ac/pmb0836)
 
 ## ☁️ SNS List
 <a href="https://latte-is-horse.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-orange?style=for-the-badge&logo=bloglovin&logoColor=white"/></a> 
@@ -59,12 +72,5 @@
 
 ### etc.
 <img src="https://img.shields.io/badge/VM_WARE-607078?style=for-the-badge&logo=vmware&logoColor=white">
-
-
-
-## Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mangbaam&count_private=true&show_icons=true&theme=vue&hide_rank=false&custom_title=Mangbaam%27s%20Stats&hide_rank=true&hide=prs)](https://github.com/mangbaam)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mangbaam&exclude_repo=CodingTest,programmers,study_algorithm&theme=vue&layout=compact)](https://github.com/mangbaam)
 
 </div>
