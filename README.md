@@ -9,7 +9,7 @@
 
 안드로이드 공부하는 `박명범`입니다!
 
-깔끔하고 잘 설계된 코드를 작성하기 위해 노력하고 있습니다. 🔥
+지속적인 성장을 위해 매일 꾸준히 노력하고 있습니다 🔥
   
   ```
   Success is the sum of small efforts, repeated day in and day out
