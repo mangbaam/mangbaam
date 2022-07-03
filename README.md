@@ -33,7 +33,7 @@
 <a href="https://open.kakao.com/o/sWfVnZMd" target="_blank"> <img src="https://img.shields.io/badge/KakaoTalk-3E2723?style=for-the-badge&logo=kakaotalk&logoColor=#FFCD00"/></a>
 
 ### 📨 Email
-<img src="https://img.shields.io/badge/pmb0836@gmail.com-white?logo=gmail&logoColor=EA4335"/>
+<a href="mailto:pmb0836@gmail.com?body=%0D%0A%0D%0A%0D%0AGithub에서%20전송된%20메일입니다!"><img src="https://img.shields.io/badge/pmb0836@gmail.com-white?logo=gmail&logoColor=EA4335"/></a>
 
 ## 🛰️Tech Stack
 ### used as the main
