@@ -30,7 +30,7 @@
 <a href="https://latte-is-horse.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-orange?style=for-the-badge&logo=bloglovin&logoColor=white"/></a> 
 <a href="https://mangbaam.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitPages-222222?style=for-the-badge&logo=githubpages&logoColor=white"/></a> 
 <a href="https://www.instagram.com/study.baam/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://open.kakao.com/o/sWfVnZMd" target="_blank"> <img src="https://img.shields.io/badge/KakaoTalk-3E2723?style=for-the-badge&logo=kakaotalk&logoColor=#FFCD00"/></a>
+<a href="https://open.kakao.com/o/sU2kFloe" target="_blank"> <img src="https://img.shields.io/badge/KakaoTalk-3E2723?style=for-the-badge&logo=kakaotalk&logoColor=#FFCD00"/></a>
 
 ### 📨 Email
 <a href="mailto:pmb0836@gmail.com?body=%0D%0A%0D%0A%0D%0AGithub에서%20전송된%20메일입니다!"><img src="https://img.shields.io/badge/pmb0836@gmail.com-white?logo=gmail&logoColor=EA4335"/></a>
