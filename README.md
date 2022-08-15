@@ -35,6 +35,16 @@
 ### 📨 Email
 <a href="mailto:pmb0836@gmail.com?body=%0D%0A%0D%0A%0D%0AGithub에서%20전송된%20메일입니다!"><img src="https://img.shields.io/badge/pmb0836@gmail.com-white?logo=gmail&logoColor=EA4335"/></a>
 
+## 🕹️ Activity
+
+### 부스트캠프 웹・모바일 7기 Challenge
+
+안드로이드
+
+2022/07/18 - 2022/08/12
+
+<a href="https://boostcamp.connect.or.kr/"><img src="https://user-images.githubusercontent.com/44221447/184587393-a9f028e3-5248-4912-be6d-8be6ce8a5fd2.png" width=30%></a>
+
 ## 🛰️Tech Stack
 ### used as the main
 
