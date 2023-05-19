@@ -37,11 +37,11 @@
 
 ## 🕹️ Activity
 
-### 부스트캠프 웹・모바일 7기 Challenge
+### 부스트캠프 웹・모바일 7기
 
 안드로이드
 
-2022/07/18 - 2022/08/12
+2022/07 - 2022/12
 
 <a href="https://boostcamp.connect.or.kr/"><img src="https://user-images.githubusercontent.com/44221447/184587393-a9f028e3-5248-4912-be6d-8be6ce8a5fd2.png" width=30%></a>
 
