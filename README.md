@@ -18,17 +18,18 @@
   ```
 
 ---
-  
+
 ## 📋Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mangbaam&count_private=true&show_icons=true&theme=vue&hide_rank=false&custom_title=Mangbaam%27s%20Stats&hide_rank=true)](https://github.com/mangbaam)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mangbaam&exclude_repo=CodingTest,programmers,study_algorithm&theme=vue&layout=compact)](https://github.com/mangbaam)
-  
+
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pmb0836)](https://solved.ac/pmb0836)
 
 ## ☁️ SNS List
 <a href="https://latte-is-horse.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-orange?style=for-the-badge&logo=bloglovin&logoColor=white"/></a> 
-<a href="https://mangbaam.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitPages-222222?style=for-the-badge&logo=githubpages&logoColor=white"/></a> 
+<a href="https://mangbaam.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitPages-222222?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/%EB%AA%85%EB%B2%94-%EB%B0%95-476504250/" target="_blank"><img src="https://img.shields.io/badge/Linked_In-white?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
 <a href="https://www.instagram.com/study.baam/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://open.kakao.com/o/sU2kFloe" target="_blank"> <img src="https://img.shields.io/badge/KakaoTalk-3E2723?style=for-the-badge&logo=kakaotalk&logoColor=#FFCD00"/></a>
 
@@ -41,46 +42,24 @@
 
 안드로이드
 
-2022/07 - 2022/12
+`2022/07 - 2022/12`
 
 <a href="https://boostcamp.connect.or.kr/"><img src="https://user-images.githubusercontent.com/44221447/184587393-a9f028e3-5248-4912-be6d-8be6ce8a5fd2.png" width=30%></a>
 
-## 🛰️Tech Stack
-### used as the main
+### 넥스터즈
 
-<img src="https://img.shields.io/badge/Android-78C257?style=for-the-badge&logo=android&logoColor=black"> <img src="https://img.shields.io/badge/Kotlin-A92BED?style=for-the-badge&logo=kotlin&logoColor=black"> <img src="https://img.shields.io/badge/Jetpack-4081EC?style=for-the-badge&logo=android&logoColor=black"> <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white">
+<a href="https://teamnexters.com/"><img src="https://github.com/mangbaam/mangbaam/assets/44221447/c894e21d-d089-48d8-8040-bffb91ca9cc8" width = "60%"></a>
 
+#### 23기
 
-### used at least once
+`2023/07 - 2023/10`
 
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=black"> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=black">  <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=flat-square&logo=JavaScript&logoColor=black"> 
+방탈출 힌트폰 서비스 [**넥스트룸**](https://play.google.com/store/apps/details?id=com.nextroom.nextroom&pcampaignid=web_share) 안드로이드 개발
 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=black"> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=black"> 
+#### 24기
 
-<img src="https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=black">
+`2024/01 - 2024/03`
 
-<img src="https://img.shields.io/badge/Compose-4285F4?style=flat-square&logo=jetpack compose&logoColor=black">
-
-## ⚒️ Tools
-### IDE
-<img src="https://img.shields.io/badge/Android_Studio-black?style=for-the-badge&logo=androidstudio&logoColor=3DDC84">
-<img src="https://img.shields.io/badge/PyCharm-black?style=for-the-badge&logo=pycharm&logoColor=1DA456">
-<img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
-<img src="https://img.shields.io/badge/VS_Code-black?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC">
-<img src="https://img.shields.io/badge/Vim-black?style=for-the-badge&logo=vim&logoColor=019733">
-
-### VCS
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=black">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Source_Tree-0052cc?style=for-the-badge&logo=sourcetree&logoColor=white">
-
-### Cowork
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
-<img src="https://img.shields.io/badge/JANDI-25A162?style=for-the-badge&logo=jandi&logoColor=white">
-
-### etc.
-<img src="https://img.shields.io/badge/VM_WARE-607078?style=for-the-badge&logo=vmware&logoColor=white">
+소규모 공연 예매 서비스 [**불티**](https://play.google.com/store/apps/details?id=com.nexters.boolti) 안드로이드 개발
 
 </div>
