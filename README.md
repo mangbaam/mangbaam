@@ -50,16 +50,16 @@
 
 <a href="https://teamnexters.com/"><img src="https://github.com/mangbaam/mangbaam/assets/44221447/c894e21d-d089-48d8-8040-bffb91ca9cc8" width = "60%"></a>
 
-#### 23기 (**2등**)
+#### 23기 (**[2등](https://www.instagram.com/p/Cwz_ZuDLLGs/?img_index=6)**)
 
 `2023/07 - 2023/10`
 
-방탈출 힌트폰 서비스 [**넥스트룸**](https://play.google.com/store/apps/details?id=com.nextroom.nextroom&pcampaignid=web_share) 안드로이드 개발
+방탈출 힌트폰 서비스 [**넥스트룸**](https://play.google.com/store/apps/details?id=com.nextroom.nextroom&pcampaignid=web_share) 안드로이드 개발 ([Repository](https://github.com/Next-Room/NextRoom-Android))
 
-#### 24기 (**1등**)
+#### 24기 (**[1등](https://www.instagram.com/p/C4FtjiIJl4R/?img_index=4)**)
 
 `2024/01 - 2024/03`
 
-소규모 공연 예매 서비스 [**불티**](https://play.google.com/store/apps/details?id=com.nexters.boolti) 안드로이드 개발
+소규모 공연 예매 서비스 [**불티**](https://play.google.com/store/apps/details?id=com.nexters.boolti) 안드로이드 개발 ([Repository](https://github.com/Nexters/Boolti))
 
 </div>
