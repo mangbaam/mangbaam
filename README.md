@@ -27,11 +27,13 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pmb0836)](https://solved.ac/pmb0836)
 
 ## ☁️ SNS List
+<a href="https://medium.com/@mangbaam" target="_blank"><img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white"/></a>
 <a href="https://latte-is-horse.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-orange?style=for-the-badge&logo=bloglovin&logoColor=white"/></a> 
 <a href="https://mangbaam.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitPages-222222?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/%EB%AA%85%EB%B2%94-%EB%B0%95-476504250/" target="_blank"><img src="https://img.shields.io/badge/Linked_In-white?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
 <a href="https://www.instagram.com/study.baam/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://open.kakao.com/o/sU2kFloe" target="_blank"> <img src="https://img.shields.io/badge/KakaoTalk-3E2723?style=for-the-badge&logo=kakaotalk&logoColor=#FFCD00"/></a>
+<a href="https://disquiet.io/@pmb0836" target="_blank"> <img src="https://img.shields.io/badge/Disquite*-white?style=for-the-badge&logo=disquite&logoColor=black"/></a>
 
 ### 📨 Email
 <a href="mailto:pmb0836@gmail.com?body=%0D%0A%0D%0A%0D%0AGithub에서%20전송된%20메일입니다!"><img src="https://img.shields.io/badge/pmb0836@gmail.com-white?logo=gmail&logoColor=EA4335"/></a>
